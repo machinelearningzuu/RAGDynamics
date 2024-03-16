@@ -1,6 +1,6 @@
 # RAGDynamics
 
-Welcome to RAGDynamics, a repository dedicated to exploring and understanding the dynamics of Retrieval-Augmented Generation (RAG) models in the year 2024.
+Welcome to RAGDynamics, a repository dedicated to exploring and understanding the dynamics of Retrieval-Augmented Generation (RAG) models in the year 2024. We mainly focus on new data parsers, upgraded tools and techniques
 
 ## About
 
